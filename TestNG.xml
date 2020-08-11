@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Goibibo">
+    <test name="goibibo_TestCase1">
+        <classes>
+            <class name="com.TestCase.Login.Login_Page"></class>
+            <class name="com.TestCase.DashBoard.Dashboard_Test"></class>
+
+        </classes>
+    </test>
+</suite>
